@@ -13,4 +13,6 @@ new Vue({
 })
 
 
-var a  = 100;
+function open(){
+	
+}
