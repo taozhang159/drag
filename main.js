@@ -11,3 +11,6 @@ new Vue({
   template: '<App/>',
   components: { App }
 })
+
+
+var a  = 100;
